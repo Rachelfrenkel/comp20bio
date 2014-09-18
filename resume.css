@@ -1,0 +1,16 @@
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#header {
+  text-align: center;
+}
+
+#bolded {
+  font-weight: bold;
+}
+
+h2.section {
+  font-weight: bold;
+
+}
