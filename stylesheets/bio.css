@@ -1,0 +1,29 @@
+p {
+  color: red;
+
+}
+
+p.first {
+  text-indent: 0px;
+}
+
+p.second {
+  text-indent: 25px;
+}
+
+p.third {
+  text-indent: 50px;
+}
+
+p.fourth {
+  text-indent: 75px;
+}
+
+p.fifth {
+  text-indent: 100px;
+}
+
+p.sixth {
+  text-indent: 125px;
+}
+

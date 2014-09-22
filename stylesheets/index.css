@@ -1,0 +1,27 @@
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#header {
+  text-align: center;
+}
+
+.bolded {
+  font-weight: bold;
+}
+
+.italics {
+  font-style: italic;
+}
+
+.image {
+  margin: 0 auto;
+  display: block;
+  border: 3px solid #0F34E9;
+}
+
+a.redirect {
+  margin: 0 auto;
+  font-weight: bold;
+  color: blue;
+}
