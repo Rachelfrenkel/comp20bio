@@ -1,6 +1,18 @@
-
+span + ul {
+  margin: 0 0;
+}
 
 h2.section {
   font-weight: bold;
 
+}
+
+.italics {
+  margin-left: 20px;
+}
+
+li {
+  text-align: left;
+  margin-left: -20px;
+  position: relative;
 }

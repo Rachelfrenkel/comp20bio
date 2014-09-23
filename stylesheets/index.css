@@ -25,3 +25,7 @@ a.redirect {
   font-weight: bold;
   color: blue;
 }
+
+.right {
+  float: right;
+}
